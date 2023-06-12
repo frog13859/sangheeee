@@ -4,3 +4,4 @@ control
 numpy
 sympy
 matplotlib
+scipy
