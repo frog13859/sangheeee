@@ -4,5 +4,5 @@ control
 numpy
 sympy
 matplotlib
-scipy==1.7.1
+scipy
 signal
