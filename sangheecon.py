@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-from scipy import fft
+from scipy import signal
 import control
 import matplotlib.pyplot as plt
 st.title("조상희")
