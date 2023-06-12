@@ -1,10 +1,9 @@
 import streamlit as st
-import control
 import numpy as np
 from scipy.signal import lti, step
-import matplotlib.pyplot as plt
 from scipy import signal
-
+import control
+import matplotlib.pyplot as plt
 st.title("조상희")
 st.header("202221016")
 
