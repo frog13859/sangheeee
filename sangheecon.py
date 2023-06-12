@@ -1,6 +1,5 @@
 import streamlit as st
 import numpy as np
-from scipy.signal import lti, step
 from scipy import signal
 import control
 import matplotlib.pyplot as plt
