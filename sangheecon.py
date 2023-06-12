@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 st.title("조상희")
 st.header("202221016")
 
-#전달 함수 정의
+#전달 함수 정의d
 
 G = control.TransferFunction([100],[1,5,6])
 # 폐루프 전달함수 계산
