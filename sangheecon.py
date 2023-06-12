@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
-!pip install scipy
 from scipy import signal
+from scipy.signal import lti, step
 import control
 import matplotlib.pyplot as plt
 st.title("조상희")
