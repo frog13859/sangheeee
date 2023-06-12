@@ -1,5 +1,6 @@
 import streamlit as st
 import numpy as np
+!pip install scipy
 from scipy import signal
 import control
 import matplotlib.pyplot as plt
